@@ -1,0 +1,1 @@
+export const isExitCommand = (command) => command === '.exit';
